@@ -5,9 +5,9 @@ public class Multiple_Main_Methods {
 
     }
 
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
         //Same main method with String[] is not acceptable
-    }
+    } */
 
     public static void main(int args) {
         //No Red highlight. This main method is valid as it is declared ith "Int".
